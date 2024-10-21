@@ -15,10 +15,8 @@
     <section id="team">
         <h2>Team Members</h2>
         <ul>
-            <li>Collin Cimaroli</li>
-            <li>Teju Kolawole</li>
-            <li>[Your Name]</li>
-            <li>[Other Team Members]</li>
+            <li>Shiraz Khan</li>
+          
         </ul>
     </section>
 
